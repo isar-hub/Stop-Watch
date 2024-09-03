@@ -21,6 +21,7 @@ The Stopwatch App is ideal for users needing a reliable tool for tracking time i
 ## Screenshots
 
 ![App Screenshot]()![Screenshot_2024-09-03-19-43-15-06_1eca2e3224750285f35d969880f102b5](https://github.com/user-attachments/assets/d83ed810-7592-4558-ad57-7fcda950109f)
+![Screenshot_2024-09-03-19-43-15-06_1eca2e3224750285f35d969880f102b5](https://github.com/user-attachments/assets/6773ea9c-7422-4f2f-a27d-8d5bb7ffc592)
 
 
 
