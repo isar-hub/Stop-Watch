@@ -14,7 +14,8 @@ The Stopwatch App is ideal for users needing a reliable tool for tracking time i
 
 ## Tech Stack
 
-**Client:** Android, Java, Figma
+**Tech Stack:** Android, Java,
+**Design:** Figma
 
 
 
